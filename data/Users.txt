@@ -47,34 +47,34 @@
     </div>
     <div class="row">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/workers_1.PNG" class="img-fluid" alt="workers_1">
+            <img src="./img/workers_1.png" class="img-fluid" alt="workers_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/workers_2.PNG" class="img-fluid" alt="workers_2">
+            <img src="./img/workers_2.png" class="img-fluid" alt="workers_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/workers_3.PNG" class="img-fluid" alt="workers_3">
+            <img src="./img/workers_3.png" class="img-fluid" alt="workers_3">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
     <a href="https://app.bangladeshtanneries.org/#/workers/workers-list"><span><h2 class="text-start"><strong>Worker List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_1.PNG" class="img-fluid" alt="worker_list_1">
+            <img src="./img/worker_list_1.png" class="img-fluid" alt="worker_list_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_2.PNG" class="img-fluid" alt="worker_list_2">
+            <img src="./img/worker_list_2.png" class="img-fluid" alt="worker_list_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_3.PNG" class="img-fluid" alt="worker_list_3">
+            <img src="./img/worker_list_3.png" class="img-fluid" alt="worker_list_3">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_4.PNG" class="img-fluid" alt="worker_list_4">
+            <img src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_5.PNG" class="img-fluid" alt="worker_list_5">
+            <img src="./img/worker_list_5.png" class="img-fluid" alt="worker_list_5">
         </div>
         <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/worker_list_6.PNG" class="img-fluid" alt="worker_list_6">
+            <img src="./img/worker_list_6.png" class="img-fluid" alt="worker_list_6">
         </div>
     </div>
     <div class="row">

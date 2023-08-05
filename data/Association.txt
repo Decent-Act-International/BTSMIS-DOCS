@@ -47,28 +47,28 @@
     </div>
     <div class="row mt-5">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/association_1.PNG" class="img-fluid" alt="association_1">
+            <img src="./img/association_1.png" class="img-fluid" alt="association_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/association_2.PNG" class="img-fluid" alt="association_2">
+            <img src="./img/association_2.png" class="img-fluid" alt="association_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/association_3.PNG" class="img-fluid" alt="association_3">
+            <img src="./img/association_3.png" class="img-fluid" alt="association_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/association_4.PNG" class="img-fluid" alt="association_4">
+            <img src="./img/association_4.png" class="img-fluid" alt="association_4">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/association/association-list/"><span><h2 class="text-start"><strong>Association List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/association_list_1.PNG" class="img-fluid" alt="association_list_1">
+            <img src="./img/association_list_1.png" class="img-fluid" alt="association_list_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/association_list_2.PNG" class="img-fluid" alt="association_list_2">
+            <img src="./img/association_list_2.png" class="img-fluid" alt="association_list_2">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/association_list_3.PNG" class="img-fluid" alt="association_list_3">
+            <img src="./img/association_list_3.png" class="img-fluid" alt="association_list_3">
         </div>
     </div>
     <div class="row">

@@ -47,37 +47,37 @@
     </div>
     <div class="row">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_1.PNG" class="img-fluid" alt="factory_1">
+            <img src="./img/factory_1.png" class="img-fluid" alt="factory_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_2.PNG" class="img-fluid" alt="factory_2">
+            <img src="./img/factory_2.png" class="img-fluid" alt="factory_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_3.PNG" class="img-fluid" alt="factory_3">
+            <img src="./img/factory_3.png" class="img-fluid" alt="factory_3">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_4.PNG" class="img-fluid" alt="factory_4">
+            <img src="./img/factory_4.png" class="img-fluid" alt="factory_4">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_5.PNG" class="img-fluid" alt="factory_5">
+            <img src="./img/factory_5.png" class="img-fluid" alt="factory_5">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/factory/factory-list/"><span><h2 class="text-start"><strong>Factory List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_list_1.PNG" class="img-fluid" alt="factory_list_1">
+            <img src="./img/factory_list_1.png" class="img-fluid" alt="factory_list_1">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_list_2.PNG" class="img-fluid" alt="factory_list_2">
+            <img src="./img/factory_list_2.png" class="img-fluid" alt="factory_list_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_list_3.PNG" class="img-fluid" alt="factory_list_3">
+            <img src="./img/factory_list_3.png" class="img-fluid" alt="factory_list_3">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/factory_list_4.PNG" class="img-fluid" alt="factory_list_4">
+            <img src="./img/factory_list_4.png" class="img-fluid" alt="factory_list_4">
         </div>
 	<div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/factory_list_5.PNG" class="img-fluid" alt="factory_list_5">
+            <img src="./img/factory_list_5.png" class="img-fluid" alt="factory_list_5">
         </div>
     </div>
     <div class="row">
