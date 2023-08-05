@@ -1,0 +1,22 @@
+.accordion-btn {
+    background-color: #f1f1f1;
+    color: #000;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    transition: background-color 0.2s;
+}
+
+.accordion-content {
+    display: none;
+    padding: 10px;
+    background-color: #fff;
+}
+
+/* .active {
+    background-color: #ccc;
+} */
