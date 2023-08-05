@@ -77,130 +77,130 @@
             <a href="https://app.bangladeshtanneries.org/#/settings/national-federation/"><span><h2 class="text-start"><strong>National Federation</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_national_federation_1" src="https://github.com/Decent-Act-International/BTSMIS-DOCS/blob/main/img/association_1.png" class="img-fluid" alt="setting_national_federation_1">
+            <img id = "setting_national_federation_1" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_national_federation_2.PNG" class="img-fluid" alt="setting_national_federation_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_national_federation_2" src="./img/setting_national_federation_2.PNG" class="img-fluid" alt="setting_national_federation_2">
+            <img id = "setting_national_federation_2" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_national_federation_2.PNG" class="img-fluid" alt="setting_national_federation_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_national_federation_3" src="./img/setting_national_federation_3.PNG" class="img-fluid" alt="setting_national_federation_3">
+            <img id = "setting_national_federation_3" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_national_federation_3.PNG" class="img-fluid" alt="setting_national_federation_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_national_federation_4" src="./img/setting_national_federation_4.PNG" class="img-fluid" alt="setting_national_federation_4">
+            <img id = "setting_national_federation_4" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_national_federation_4.PNG" class="img-fluid" alt="setting_national_federation_4">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/sectoral-federation/"><span><h2 class="text-start"><strong>Sectoral Federation</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_sectoral_federation_1" src="./img/setting_sectoral_federation_1.PNG" class="img-fluid" alt="sectoral_federation_1">
+            <img id = "setting_sectoral_federation_1" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sectoral_federation_1.PNG" class="img-fluid" alt="sectoral_federation_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_sectoral_federation_2" src="./img/setting_sectoral_federation_2.PNG" class="img-fluid" alt="sectoral_federation_2">
+            <img id = "setting_sectoral_federation_2" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sectoral_federation_2.PNG" class="img-fluid" alt="sectoral_federation_2">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_sectoral_federation_3" src="./img/setting_sectoral_federation_3.PNG" class="img-fluid" alt="sectoral_federation_3">
+            <img id = "setting_sectoral_federation_3" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sectoral_federation_3.PNG" class="img-fluid" alt="sectoral_federation_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_sectoral_federation_4" src="./img/setting_sectoral_federation_4.PNG" class="img-fluid" alt="sectoral_federation_4">
+            <img id = "setting_sectoral_federation_4" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sectoral_federation_4.PNG" class="img-fluid" alt="sectoral_federation_4">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "setting_sectoral_federation_5" src="./img/setting_sectoral_federation_5.PNG" class="img-fluid" alt="sectoral_federation_5">
+            <img id = "setting_sectoral_federation_5" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sectoral_federation_5.PNG" class="img-fluid" alt="sectoral_federation_5">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/department/"><span><h2 class="text-start"><strong>Department</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_department_1" src="./img/setting_department_1.PNG" class="img-fluid" alt="setting_department_1">
+            <img id ="setting_department_1" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_department_1.PNG" class="img-fluid" alt="setting_department_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_department_2" src="./img/setting_department_2.PNG" class="img-fluid" alt="setting_department_2">
+            <img id ="setting_department_2" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_department_2.PNG" class="img-fluid" alt="setting_department_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_department_3" src="./img/setting_department_3.PNG" class="img-fluid" alt="setting_department_3">
+            <img id ="setting_department_3" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_department_3.PNG" class="img-fluid" alt="setting_department_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_department_4" src="./img/setting_department_4.PNG" class="img-fluid" alt="setting_department_4">
+            <img id ="setting_department_4" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_department_4.PNG" class="img-fluid" alt="setting_department_4">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/designation/"><span><h2 class="text-start"><strong>Designation</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_designation_1" src="./img/setting_designation_1.PNG" class="img-fluid" alt="designation_1">
+            <img id ="setting_designation_1" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_designation_1.PNG" class="img-fluid" alt="designation_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_designation_2" src="./img/setting_designation_2.PNG" class="img-fluid" alt="designation_2">
+            <img id ="setting_designation_2" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_designation_2.PNG" class="img-fluid" alt="designation_2">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_designation_3" src="./img/setting_designation_3.PNG" class="img-fluid" alt="designation_3">
+            <img id ="setting_designation_3" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_designation_3.PNG" class="img-fluid" alt="designation_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_designation_4" src="./img/setting_designation_4.PNG" class="img-fluid" alt="designation_4">
+            <img id ="setting_designation_4" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_designation_4.PNG" class="img-fluid" alt="designation_4">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_designation_5" src="./img/setting_designation_5.PNG" class="img-fluid" alt="designation_5">
+            <img id ="setting_designation_5" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_designation_5.PNG" class="img-fluid" alt="designation_5">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_designation_6" src="./img/setting_designation_6.PNG" class="img-fluid" alt="designation_6">
+            <img id ="setting_designation_6" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_designation_6.PNG" class="img-fluid" alt="designation_6">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/sector/"><span><h2 class="text-start"><strong>Sector</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_sector_1" src="./img/setting_sector_1.PNG" class="img-fluid" alt="sector_1">
+            <img id ="setting_sector_1" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sector_1.PNG" class="img-fluid" alt="sector_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_sector_2" src="./img/setting_sector_2.PNG" class="img-fluid" alt="sector_2">
+            <img id ="setting_sector_2" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sector_2.PNG" class="img-fluid" alt="sector_2">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_sector_3" src="./img/setting_sector_3.PNG" class="img-fluid" alt="sector_3">
+            <img id ="setting_sector_3" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sector_3.PNG" class="img-fluid" alt="sector_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_sector_4" src="./img/setting_sector_4.PNG" class="img-fluid" alt="sector_4">
+            <img id ="setting_sector_4" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_sector_4.PNG" class="img-fluid" alt="sector_4">
     	</div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/education/"><span><h2 class="text-start"><strong>Education</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_education_1" src="./img/setting_education_1.PNG" class="img-fluid" alt="education_1">
+            <img id ="setting_education_1" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_education_1.PNG" class="img-fluid" alt="education_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_education_2" src="./img/setting_education_2.PNG" class="img-fluid" alt="education_2">
+            <img id ="setting_education_2" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_education_2.PNG" class="img-fluid" alt="education_2">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_education_3" src="./img/setting_education_3.PNG" class="img-fluid" alt="education_3">
+            <img id ="setting_education_3" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_education_3.PNG" class="img-fluid" alt="education_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="setting_education_4" src="./img/setting_education_4.PNG" class="img-fluid" alt="education_4">
+            <img id ="setting_education_4" src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_education_4.PNG" class="img-fluid" alt="education_4">
     	</div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/religion/"><span><h2 class="text-start"><strong>Religion</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_1.PNG" class="img-fluid" alt="religion_1">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_religion_1.PNG" class="img-fluid" alt="religion_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_2.PNG" class="img-fluid" alt="religion_2">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_religion_2.PNG" class="img-fluid" alt="religion_2">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_3.PNG" class="img-fluid" alt="religion_3">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_religion_3.PNG" class="img-fluid" alt="religion_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_4.PNG" class="img-fluid" alt="religion_4">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_religion_4.PNG" class="img-fluid" alt="religion_4">
     	</div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/employment-contract/"><span><h2 class="text-start"><strong>Employment Contract</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_employment_contract_1.PNG" class="img-fluid" alt="employment_contract_1">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_employment_contract_1.PNG" class="img-fluid" alt="employment_contract_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_employment_contract_2.PNG" class="img-fluid" alt="employment_contract_2">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_employment_contract_2.PNG" class="img-fluid" alt="employment_contract_2">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_employment_contract_3.PNG" class="img-fluid" alt="employment_contract_3">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_employment_contract_3.PNG" class="img-fluid" alt="employment_contract_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/setting_employment_contract_4.PNG" class="img-fluid" alt="employment_contract_4">
+            <img src="https://raw.githubusercontent.com/Decent-Act-International/BTSMIS-DOCS/main/img/setting_employment_contract_4.PNG" class="img-fluid" alt="employment_contract_4">
     	</div>
         <div class="col-md-12 shadow p-3 mb-1 bg-body rounded">
             <small class="d-flex justify-content-center">
