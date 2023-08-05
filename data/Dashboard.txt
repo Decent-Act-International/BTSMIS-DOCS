@@ -29,21 +29,27 @@
             <br /> Instructions on how to customize the dashboard, such as adding new visualizations, changing the layout, or modifying settings.
             <br />
             <br />
-        
-            Troubleshooting: A section dedicated to common issues, error messages, and how to troubleshoot them.
-            
-            Version History: For software-based dashboards, the version history shows the changes and improvements made in each version of the dashboard.
-            
-            Known Issues: A list of known bugs or limitations in the dashboard and potential workarounds.
-            
-            Frequently Asked Questions (FAQ): This section addresses common questions users or developers may have about the dashboard.
-            
-            Contact and Support: Information on how to get in touch with the dashboard's maintainers or support team.
-            
-            The specific content and structure of dashboard documentation can vary depending on the type of dashboard and the intended audience. Some dashboards may have more extensive documentation, especially if they are complex or have a significant user base.
-            
-            Remember that well-organized and up-to-date documentation can greatly improve the usability and maintainability of the dashboard, so it's essential to keep it accurate and comprehensive.</p>
-        </div>
+            <strong>Troubleshooting:</strong> <br />
+            A section dedicated to common issues, error messages, and how to troubleshoot them.
+            <br />
+            <br />
+            <strong>Version History: </strong> <br />
+            For software-based dashboards, the version history shows the changes and improvements made in each version of the dashboard.
+            <br />
+            <br />
+            <strong>Known Issues: </strong> <br />
+            A list of known bugs or limitations in the dashboard and potential workarounds.
+            <br />
+            <br />
+            <strong>Frequently Asked Questions (FAQ): </strong> <br />
+            This section addresses common questions users or developers may have about the dashboard.
+            <br />
+            <br />
+            <strong>Contact and Support: </strong> <br />
+            Information on how to get in touch with the dashboard's maintainers or support team.
+            <br />
+            <br />
+            </div>
     </div>
     <div class="row">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -51,9 +57,6 @@
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img src="./img/dashboard_2.png" class="img-fluid" alt="dashboard_2">
-        </div>
-        <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/dashboard_3.png" class="img-fluid" alt="dashboard_3">
         </div>
     </div>
     <div class="row">
