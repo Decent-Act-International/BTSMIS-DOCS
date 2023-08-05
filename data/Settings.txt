@@ -33,7 +33,7 @@
             <br /> Process: <br />
             Go to Settings --> Designation <br />
             Entry Process: <br />
-            Here given four steps to understand the entry process : <br />
+            Here given six steps to understand the entry process : <br />
             Steps : <a href="#setting_designation_1">1</a> <a href="#setting_designation_2">2</a> <a href="#setting_designation_3">3</a> <a href="#setting_designation_4">4</a> <a href="#setting_designation_5">5</a> <a href="#setting_designation_6">6</a>
             <br />
             <br />
