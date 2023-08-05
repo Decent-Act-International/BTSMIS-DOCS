@@ -47,31 +47,31 @@
     </div>
     <div class="row">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_1.PNG" class="img-fluid" alt="union_1">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_1.PNG" class="img-fluid" alt="union_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_2.PNG" class="img-fluid" alt="union_2">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_2.PNG" class="img-fluid" alt="union_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_3.PNG" class="img-fluid" alt="union_3">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_3.PNG" class="img-fluid" alt="union_3">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_4.PNG" class="img-fluid" alt="union_4">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_4.PNG" class="img-fluid" alt="union_4">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_5.PNG" class="img-fluid" alt="union_5">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_5.PNG" class="img-fluid" alt="union_5">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/union/union-list/"><span><h2 class="text-start"><strong>Union List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_list_1.PNG" class="img-fluid" alt="union_list_1">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_list_1.PNG" class="img-fluid" alt="union_list_1">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_list_2.PNG" class="img-fluid" alt="union_list_2">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_list_2.PNG" class="img-fluid" alt="union_list_2">
         </div>
 	<div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/union_list_3.PNG" class="img-fluid" alt="union_list_3">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/union_list_3.PNG" class="img-fluid" alt="union_list_3">
         </div>
     </div>
     <div class="row">

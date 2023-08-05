@@ -47,13 +47,13 @@
     </div>
     <div class="row">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/dashboard_1.PNG" class="img-fluid" alt="dashboard_1">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/dashboard_1.PNG" class="img-fluid" alt="dashboard_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/dashboard_2.PNG" class="img-fluid" alt="dashboard_2">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/dashboard_2.PNG" class="img-fluid" alt="dashboard_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/dashboard_3.PNG" class="img-fluid" alt="dashboard_3">
+            <img src="https://decent-act-international.github.io/BTSMIS-DOCS/img/dashboard_3.PNG" class="img-fluid" alt="dashboard_3">
         </div>
     </div>
     <div class="row">
