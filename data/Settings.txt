@@ -1,75 +1,89 @@
 <div class = "container-fluid">
     <div class="row mt-5">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <h2 class="text-start"><strong>Settings</strong></h2>
+            <h1 class="text-start"><strong>Settings</strong></h1>
+        </div>
+        <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
+            <h1><strong>Table of Contents:</strong></h1>
+            <ul>
+                <li><a href="">National Federation</a></li>
+                <li><a href="">Sectoral Federation</a></li>
+                <li><a href="">Department</a></li>
+                <li><a href="">Designation</a></li>
+                <li><a href="">Sector</a></li>
+                <li><a href="">Education</a></li>
+                <li><a href="">Religion</a></li>
+                <li><a href="">Employment Contract </a></li>
+            </ul>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <p class="text-start">
-            <strong>National Federation :</strong>
-            <br /> Process: <br />
-            Go to Settings --> National Federation <br />
-            Entry Process: <br />
-            Here given four steps to understand the entry process : <br />
-            Steps : <a href="#setting_national_federation_1">1</a> <a href="#setting_national_federation_2">2</a> <a href="#setting_national_federation_3">3</a> <a href="#setting_national_federation_4">4</a>
-            <br />
-            <br />
-            <strong>Sectoral Federation :</strong> 
-            <br /> Process: <br />
-            Go to Settings --> Sectoral Federation <br />
-            Entry Process: <br />
-            Here given five steps to understand the entry process : <br />
-            Steps : <a href="#setting_sectoral_federation_1">1</a> <a href="#setting_sectoral_federation_2">2</a> <a href="#setting_sectoral_federation_3">3</a> <a href="#setting_sectoral_federation_4">4</a> <a href="#setting_sectoral_federation_5">5</a>
-            <br />
-            <br />
-            <strong>Department :</strong> 
-            <br /> Process: <br />
-            Go to Settings --> Department <br />
-            Entry Process: <br />
-            Here given four steps to understand the entry process : <br />
-            Steps : <a href="#setting_department_1">1</a> <a href="#setting_department_2">2</a> <a href="#setting_department_3">3</a> <a href="#setting_department_4">4</a>
-            <br />
-            <br />
-            <strong>Designation :</strong>
-            <br /> Process: <br />
-            Go to Settings --> Designation <br />
-            Entry Process: <br />
-            Here given six steps to understand the entry process : <br />
-            Steps : <a href="#setting_designation_1">1</a> <a href="#setting_designation_2">2</a> <a href="#setting_designation_3">3</a> <a href="#setting_designation_4">4</a> <a href="#setting_designation_5">5</a> <a href="#setting_designation_6">6</a>
-            <br />
-            <br />
-            <strong>Sector :</strong>
-            Process: <br />
-            Go to Settings --> Sector <br />
-            Entry Process: <br />
-            Here given four steps to understand the entry process : <br />
-            Steps : <a href="#setting_sector_1">1</a> <a href="#setting_sector_2">2</a> <a href="#setting_sector_3">3</a> <a href="#setting_sector_4">4</a>
-            <br />
-            <br />
-            <strong>Education :</strong>
-            <br /> Process: <br />
-            Go to Settings --> Education <br />
-            Entry Process: <br />
-            Here given four steps to understand the entry process : <br />
-            Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
-            <br />
-            <br />
-            <strong>Religion :</strong>
-            <br /> A section dedicated to common issues, error messages, and how to troubleshoot them.
-            <br />
-            <br />
-            <strong>Employment Contract :</strong>
-            <br />For software-based dashboards, the version history shows the changes and improvements made in each version of the dashboard.
-            <br />
-            <br />
-            Known Issues: A list of known bugs or limitations in the dashboard and potential workarounds.
-            
-            Frequently Asked Questions (FAQ): This section addresses common questions users or developers may have about the dashboard.
-            
-            Contact and Support: Information on how to get in touch with the dashboard's maintainers or support team.
-            
-            The specific content and structure of dashboard documentation can vary depending on the type of dashboard and the intended audience. Some dashboards may have more extensive documentation, especially if they are complex or have a significant user base.
-            
-            Remember that well-organized and up-to-date documentation can greatly improve the usability and maintainability of the dashboard, so it's essential to keep it accurate and comprehensive.</p>
+                <strong>National Federation :</strong>
+                <br /> Process: <br />
+                Go to Settings --> National Federation <br />
+                Entry Process: <br />
+                Here given four steps to understand the entry process : <br />
+                Steps : <a href="#setting_national_federation_1">1</a> <a href="#setting_national_federation_2">2</a> <a href="#setting_national_federation_3">3</a> <a href="#setting_national_federation_4">4</a>
+                <br />
+                <br />
+                <strong>Sectoral Federation :</strong> 
+                <br /> Process: <br />
+                Go to Settings --> Sectoral Federation <br />
+                Entry Process: <br />
+                Here given five steps to understand the entry process : <br />
+                Steps : <a href="#setting_sectoral_federation_1">1</a> <a href="#setting_sectoral_federation_2">2</a> <a href="#setting_sectoral_federation_3">3</a> <a href="#setting_sectoral_federation_4">4</a> <a href="#setting_sectoral_federation_5">5</a>
+                <br />
+                <br />
+                <strong>Department :</strong> 
+                <br /> Process: <br />
+                Go to Settings --> Department <br />
+                Entry Process: <br />
+                Here given four steps to understand the entry process : <br />
+                Steps : <a href="#setting_department_1">1</a> <a href="#setting_department_2">2</a> <a href="#setting_department_3">3</a> <a href="#setting_department_4">4</a>
+                <br />
+                <br />
+                <strong>Designation :</strong>
+                <br /> Process: <br />
+                Go to Settings --> Designation <br />
+                Entry Process: <br />
+                Here given six steps to understand the entry process : <br />
+                Steps : <a href="#setting_designation_1">1</a> <a href="#setting_designation_2">2</a> <a href="#setting_designation_3">3</a> <a href="#setting_designation_4">4</a> <a href="#setting_designation_5">5</a> <a href="#setting_designation_6">6</a>
+                <br />
+                <br />
+                <strong>Sector :</strong>
+                Process: <br />
+                Go to Settings --> Sector <br />
+                Entry Process: <br />
+                Here given four steps to understand the entry process : <br />
+                Steps : <a href="#setting_sector_1">1</a> <a href="#setting_sector_2">2</a> <a href="#setting_sector_3">3</a> <a href="#setting_sector_4">4</a>
+                <br />
+                <br />
+                <strong>Education :</strong>
+                <br /> Process: <br />
+                Go to Settings --> Education <br />
+                Entry Process: <br />
+                Here given four steps to understand the entry process : <br />
+                Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
+                <br />
+                <br />
+                <strong>Religion :</strong>
+                <br /> A section dedicated to common issues, error messages, and how to troubleshoot them.
+                <br />
+                <br />
+                <strong>Employment Contract :</strong>
+                <br />For software-based dashboards, the version history shows the changes and improvements made in each version of the dashboard.
+                <br />
+                <br />
+                Known Issues: A list of known bugs or limitations in the dashboard and potential workarounds.
+                
+                Frequently Asked Questions (FAQ): This section addresses common questions users or developers may have about the dashboard.
+                
+                Contact and Support: Information on how to get in touch with the dashboard's maintainers or support team.
+                
+                The specific content and structure of dashboard documentation can vary depending on the type of dashboard and the intended audience. Some dashboards may have more extensive documentation, especially if they are complex or have a significant user base.
+                
+                Remember that well-organized and up-to-date documentation can greatly improve the usability and maintainability of the dashboard, so it's essential to keep it accurate and comprehensive.
+                </p>
         </div>
     </div>
     <div class="row">
