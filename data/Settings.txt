@@ -19,7 +19,7 @@
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
             <div class="info p-2">
                 <p>
-                    <strong>Note!</strong> Here are some required field. Such as: <span class = "asterisk">*</span>First Name, <span class = "asterisk">*</span>Date of Birth, <span class = "asterisk">*</span>Factory Name;
+                    <strong>Note!</strong> Here are some required field. Such as: <span class = "asterisk">*</span>National Federation Name, <span class = "asterisk">*</span>Sectoral Federation Name, <span class = "asterisk">*</span>Department Name, <span class = "asterisk">*</span>Designation Type, <span class = "asterisk">*</span>Designation Name, <span class = "asterisk">*</span>Sector Name, <span class = "asterisk">*</span>Education Name, <span class = "asterisk">*</span>Religion Name, <span class = "asterisk">*</span>Type Name of Employment Contract;
                     <br />
                     NID should be 10 or 13 digit entry;
                     Mobile or Phone number should be 11 digit entry.
