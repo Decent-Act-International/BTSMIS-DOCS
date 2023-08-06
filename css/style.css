@@ -205,3 +205,15 @@ a {
   display: inline-block;
   margin-left: 20px;
 }
+
+/* for note */
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+  border-radius: 10px;
+}
+
+/* for required field */
+.asterisk {
+  color: red;
+}
