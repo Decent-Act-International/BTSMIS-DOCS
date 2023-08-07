@@ -6,8 +6,8 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li><a href="">Add Workers</a></li>
-                <li><a href="">Workers List</a></li>
+                <li><a href="#">Add Workers</a></li>
+                <li><a href="#">Workers List</a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
