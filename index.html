@@ -30,12 +30,12 @@
     <div class="l-navbar" id="nav-bar">
       <nav class="nav">
         <div>
-          <a href="#" class="nav_logo">
+          <a href="#overview" class="nav_logo">
             <i class='bx bx-layer nav_logo-icon'></i>
             <span class="nav_logo-name">BTSMIS</span>
           </a>
           <div class="nav_list">
-            <a href="#" class="nav_link" onclick="display('Dashboard');">
+            <a href="#Dashboard" class="nav_link" onclick="display('Dashboard');">
               <i class='bx bx-grid-alt nav_icon'></i>
               <span class="nav_name">Dashboard</span>
             </a>
@@ -222,6 +222,15 @@
   <script src="./js/accordion.js"></script>
   <script type='text/javascript' src='./js/nav.js'></script>
   <script type='text/javascript' src='./js/link.js'></script>
+  <script>
+    // Add an event listener to the 'beforeunload' event
+    window.addEventListener('beforeunload', function(event) {
+        // Cancel the event to prevent the page from being reloaded
+        event.preventDefault();
+        // Set a custom message in the dialog box
+        event.returnValue = 'Are you sure you want to leave this page? Your changes may not be saved.';
+    });
+  </script>
 </body>
 
 </html>
