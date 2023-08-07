@@ -32,7 +32,8 @@ function display(params) {
     case "Users":
       fetchData(file);
       break;
-    default:
+    case "Overview":
+      fetchData(file);
       break;
   }
 }
