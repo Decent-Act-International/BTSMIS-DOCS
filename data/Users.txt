@@ -7,7 +7,7 @@
             <h1><strong>Table of Contents:</strong></h1>
              <ul>
                 <li><a href="#user-role">Add user role</a></li>
-                <li><a href="#">Approval</a></li>
+                <li><a href="#approval_list">Approval</a></li>
             </ul>       
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
@@ -20,7 +20,25 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id = "user-role">
                 <strong>User Roles:</strong>
-                <p class="">User roles are a way to define different levels of access and permissions for users within the app. This helps ensure that users only have access to the features and documents that are relevant to their responsibilities. Common user roles in a document management app may include:</p>
+                <p>User roles are a way to define different levels of access and permissions for users within the app. This helps ensure that users only have access to the features and documents that are relevant to their responsibilities. Common user roles in a document management app may include:</p>
+            </section>
+            <section id = "approval_list">
+                <strong>Approval List:</strong>
+                <p>
+                    The approval list feature is useful when documents require authorization or validation from specific users or groups before they can be published or shared with others. This is particularly important in scenarios where document compliance and data security are critical. Here's how the approval list feature can work:
+                    <br />
+                    - When a user uploads a document that requires approval, they can select the approvers or approver groups from a predefined list.
+                    <br />
+                    - The document management app sends notifications to the designated approvers, informing them of the pending approval request.
+                    <br />
+                    - Approvers can review the document and either approve or reject it. They may also add comments or feedback for the document owner or editor.
+                    <br />
+                    - If the document is approved, it can then be published or shared with the intended audience. If rejected, the document owner can make necessary changes and resubmit it for approval.
+                    <br />
+                    By incorporating these features, a document management app can provide better control over document access and distribution while ensuring compliance with internal policies and regulations.
+                    <br />
+                    Please note that the implementation details of these features will vary depending on the technology stack and framework used to develop the app. Additionally, it's essential to consider data security, user authentication, and access control mechanisms to ensure the integrity of the document management system.
+                </p>
             </section>
         </div>
         <div class="row">
