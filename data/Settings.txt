@@ -97,8 +97,17 @@
         </div>
     </div>
     <div class="row">
+    
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/national-federation/"><span><h2 class="text-start"><strong>National Federation</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="national_federation">
+                <strong>National Federation:</strong>
+                <p>
+			This module likely pertains to the national-level organizations or federations. It could store documents related to their activities, policies, and other important information specific to the national level.	
+                </p>
+            </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id = "setting_national_federation_1" src="./img/setting_national_federation_2.png" class="img-fluid" alt="setting_national_federation_1">
@@ -114,6 +123,14 @@
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/sectoral-federation/"><span><h2 class="text-start"><strong>Sectoral Federation</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="sectoral_federation">
+                <strong>Sectoral Federation:</strong>
+                <p>
+			This module focuses on sectoral federations or industry-specific organizations. It would contain documents related to different sectors or industries, such as manufacturing, healthcare, finance, etc.	
+                </p>
+            </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id = "setting_sectoral_federation_1" src="./img/setting_sectoral_federation_1.png" class="img-fluid" alt="sectoral_federation_1">
@@ -134,6 +151,14 @@
             <a href="https://app.bangladeshtanneries.org/#/settings/department/"><span><h2 class="text-start"><strong>Department</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="department">
+                <strong>Department:</strong>
+                <p>
+			The department module is likely used to categorize documents based on different departments within an organization. For example, you might have documents related to HR, Finance, Marketing, and so on.
+                </p>
+            </section>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id ="setting_department_1" src="./img/setting_department_1.png" class="img-fluid" alt="setting_department_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -147,6 +172,14 @@
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/designation/"><span><h2 class="text-start"><strong>Designation</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="designation">
+                <strong>Designation:</strong>
+                <p>
+			The designation module could store documents based on different job roles or positions within an organization. This allows documents to be organized based on the responsibilities of different employees.
+                </p>
+            </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id ="setting_designation_1" src="./img/setting_designation_1.png" class="img-fluid" alt="designation_1">
@@ -170,6 +203,14 @@
             <a href="https://app.bangladeshtanneries.org/#/settings/sector/"><span><h2 class="text-start"><strong>Sector</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="sector">
+                <strong>Sector:</strong>
+                <p>
+			The sector module may represent different business sectors or industries that the organization operates in or deals with. It helps categorize documents based on the sector they belong to.
+                </p>
+            </section>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id ="setting_sector_1" src="./img/setting_sector_1.png" class="img-fluid" alt="sector_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -183,6 +224,14 @@
     	</div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/education/"><span><h2 class="text-start"><strong>Education</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="education">
+                <strong>Education:</strong>
+                <p>
+			The education module might be used to store documents related to the educational qualifications of employees or members of the organization.
+                </p>
+            </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id ="setting_education_1" src="./img/setting_education_1.png" class="img-fluid" alt="education_1">
@@ -200,6 +249,14 @@
             <a href="https://app.bangladeshtanneries.org/#/settings/religion/"><span><h2 class="text-start"><strong>Religion</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="education">
+                <strong>Religion:</strong>
+                <p>
+			This module seems to be focused on categorizing documents based on religious affiliations of individuals or organizations, if relevant.
+                </p>
+            </section>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img src="./img/setting_religion_1.png" class="img-fluid" alt="religion_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -213,6 +270,14 @@
     	</div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/employment-contract/"><span><h2 class="text-start"><strong>Employment Contract</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="employment_contract">
+                <strong>Employment Contract:</strong>
+                <p>
+			The employment contract module would be used to manage documents related to employment contracts or agreements between the organization and its employees.
+                </p>
+            </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img src="./img/setting_employment_contract_1.png" class="img-fluid" alt="employment_contract_1">

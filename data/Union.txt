@@ -6,8 +6,8 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li><a href="#">Add Union</a></li>
-                <li><a href="#">Union List</a></li>
+                <li><a href="#add_union">Add Union</a></li>
+                <li><a href="#union_list">Union List</a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
@@ -22,6 +22,22 @@
         </div>
     <div />
     <div class="row">
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="add_union">
+                <strong>Add Union:</strong>
+                <p>
+                    The Union module serves as a centralized database for managing information and documents related to various labor unions or trade unions. Each union is represented by a unique profile that contains essential details and associated documents. Here are some key features and functionalities of this module:
+                    <br />
+                    <strong>Union Profiles:</strong>  Each labor union or trade union has a dedicated profile that includes information such as the union's name, address, contact details, and other relevant information.
+                    <br />
+                    <strong>Document Management:</strong>  The module allows the union profile to be associated with various documents, such as union constitutions, meeting minutes, collective bargaining agreements, grievance records, membership lists, and other important documents specific to the union.
+                    <br />
+                    <strong>Document Versioning:</strong> To maintain data integrity, the app may include version control features to track changes made to documents associated with a union over time.
+                    <br />
+                    <strong>Access Control:</strong>  Access to union profiles and associated documents can be controlled based on user roles and permissions. This ensures that only authorized users, such as union representatives and administrators, can view and manage sensitive union-related information.
+                </p>
+            </section>
+        </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img src="./img/union_1.png" class="img-fluid" alt="union_1">
         </div>
@@ -39,6 +55,27 @@
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/union/union-list/"><span><h2 class="text-start"><strong>Union List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <section id="union_list">
+                <strong>Union List:</strong>
+                <p>
+                    The Union List module provides a user-friendly interface that displays a comprehensive list of all the labor unions or trade unions managed within the document management app. It serves as a navigational tool to access individual union profiles and their associated documents efficiently. Here are some key aspects of this module:
+                    <br />
+                    <strong>List View:</strong> The module presents a tabular or grid-based view of all unions, showing essential details such as union names, locations, and contact information.
+                    <br />
+                    <strong>Search and Filters:</strong> Users can search for specific unions based on various criteria, such as union name, location, or any custom fields defined for union profiles.
+                    <br />
+                    <strong>Quick Access:</strong> Clicking on a union's name or profile entry in the list leads to the detailed profile of that union within the Union module.
+                    <br />
+                    <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange unions alphabetically, by location, or other relevant attributes.
+                    <br />
+                    <strong>Integration with Union Module:</strong>  The Union List module is closely integrated with the Union module. Clicking on a union in the list provides immediate access to their detailed profile and associated documents.
+                    By combining the Factory and Factory List modules, the document management app provides an efficient way to manage and access documents related to various factories or manufacturing facilities. It streamlines the process of handling factory-related information, improves document retrieval, and ensures data security and privacy. This setup also enhances the overall organization and management of important records for each factory within the system.
+                    <br />
+                    By combining the Union and Union List modules, the document management app provides an efficient way to manage and access documents related to various labor unions or trade unions. It streamlines the process of handling union-related information, improves document retrieval, and ensures data security and privacy. This setup also enhances the overall organization and management of important records for each union within the system.
+                </p>
+            </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img src="./img/union_list_1.png" class="img-fluid" alt="union_list_1">
