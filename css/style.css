@@ -217,3 +217,10 @@ a {
 .asterisk {
   color: red;
 }
+
+/* for entry process*/
+.entry_process {
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+  border-radius: 10px;
+}

@@ -36,22 +36,32 @@
                     <br />
                     <strong>Access Control:</strong>  Access to union profiles and associated documents can be controlled based on user roles and permissions. This ensures that only authorized users, such as union representatives and administrators, can view and manage sensitive union-related information.
                 </p>
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Union --> Add Union <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#union_1">1</a> <a href="#union_2">2</a> <a href="#union_3">3</a> <a href="#union_4">4</a> <a href="#union_5">5</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_1.png" class="img-fluid" alt="union_1">
+            <img id="union_1" src="./img/union_1.png" class="img-fluid" alt="union_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_2.png" class="img-fluid" alt="union_2">
+            <img id="union_2" src="./img/union_2.png" class="img-fluid" alt="union_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_3.png" class="img-fluid" alt="union_3">
+            <img id="union_3" src="./img/union_3.png" class="img-fluid" alt="union_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_4.png" class="img-fluid" alt="union_4">
+            <img id="union_4" src="./img/union_4.png" class="img-fluid" alt="union_4">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_5.png" class="img-fluid" alt="union_5">
+            <img id="union_5" src="./img/union_5.png" class="img-fluid" alt="union_5">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/union/union-list/"><span><h2 class="text-start"><strong>Union List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
@@ -75,16 +85,26 @@
                     <br />
                     By combining the Union and Union List modules, the document management app provides an efficient way to manage and access documents related to various labor unions or trade unions. It streamlines the process of handling union-related information, improves document retrieval, and ensures data security and privacy. This setup also enhances the overall organization and management of important records for each union within the system.
                 </p>
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Union --> Union List <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#union_list_1">1</a> <a href="#union_list_2">2</a> <a href="#union_list_3">3</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_list_1.png" class="img-fluid" alt="union_list_1">
+            <img id = "union_list_1" src="./img/union_list_1.png" class="img-fluid" alt="union_list_1">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/union_list_2.png" class="img-fluid" alt="union_list_2">
+            <img id = "union_list_2" src="./img/union_list_2.png" class="img-fluid" alt="union_list_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/union_list_3.png" class="img-fluid" alt="union_list_3">
+            <img id = "union_list_3" src="./img/union_list_3.png" class="img-fluid" alt="union_list_3">
         </div>
     </div>
     <div class="row">

@@ -39,12 +39,17 @@
                 <p>
 			This module likely pertains to the national-level organizations or federations. It could store documents related to their activities, policies, and other important information specific to the national level.	
                 </p>
-                <br /> Process: <br />
-                Go to Settings --> National Federation <br />
-                Entry Process: <br />
-                Here given four steps to understand the entry process : <br />
-                Steps : <a href="#setting_national_federation_1">1</a> <a href="#setting_national_federation_2">2</a> <a href="#setting_national_federation_3">3</a> <a href="#setting_national_federation_4">4</a>
-                <br />
+                <div class="entry_process p-2">
+                <p>
+                    <strong>Process: </strong>
+                    <br />
+                    Go to Settings --> National Federation <br />
+                    Entry Process: <br />
+                    Here given four steps to understand the entry process : <br />
+                    Steps : <a href="#setting_national_federation_1">1</a> <a href="#setting_national_federation_2">2</a> <a href="#setting_national_federation_3">3</a> <a href="#setting_national_federation_4">4</a>
+                    <br />
+                </p>
+            </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -68,12 +73,16 @@
                 <p>
 			This module focuses on sectoral federations or industry-specific organizations. It would contain documents related to different sectors or industries, such as manufacturing, healthcare, finance, etc.	
                 </p>
-                <br /> Process: <br />
-                Go to Settings --> Sectoral Federation <br />
-                Entry Process: <br />
-                Here given five steps to understand the entry process : <br />
-                Steps : <a href="#setting_sectoral_federation_1">1</a> <a href="#setting_sectoral_federation_2">2</a> <a href="#setting_sectoral_federation_3">3</a> <a href="#setting_sectoral_federation_4">4</a> <a href="#setting_sectoral_federation_5">5</a>
-                <br />
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Settings --> Sectoral Federation <br />
+                        Entry Process: <br />
+                        Here given five steps to understand the entry process : <br />
+                        Steps : <a href="#setting_sectoral_federation_1">1</a> <a href="#setting_sectoral_federation_2">2</a> <a href="#setting_sectoral_federation_3">3</a> <a href="#setting_sectoral_federation_4">4</a> <a href="#setting_sectoral_federation_5">5</a>
+                        <br />
+                    </p>
+                <div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -100,12 +109,16 @@
                 <p>
 			The department module is likely used to categorize documents based on different departments within an organization. For example, you might have documents related to HR, Finance, Marketing, and so on.
                 </p>
-                <br /> Process: <br />
-                Go to Settings --> Department <br />
-                Entry Process: <br />
-                Here given four steps to understand the entry process : <br />
-                Steps : <a href="#setting_department_1">1</a> <a href="#setting_department_2">2</a> <a href="#setting_department_3">3</a> <a href="#setting_department_4">4</a>
-                <br />
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Settings --> Department <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#setting_department_1">1</a> <a href="#setting_department_2">2</a> <a href="#setting_department_3">3</a> <a href="#setting_department_4">4</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -129,12 +142,16 @@
                 <p>
 			The designation module could store documents based on different job roles or positions within an organization. This allows documents to be organized based on the responsibilities of different employees.
                 </p>
-                <br /> Process: <br />
-                Go to Settings --> Designation <br />
-                Entry Process: <br />
-                Here given six steps to understand the entry process : <br />
-                Steps : <a href="#setting_designation_1">1</a> <a href="#setting_designation_2">2</a> <a href="#setting_designation_3">3</a> <a href="#setting_designation_4">4</a> <a href="#setting_designation_5">5</a> <a href="#setting_designation_6">6</a>
-                <br />
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Settings --> Designation <br />
+                        Entry Process: <br />
+                        Here given six steps to understand the entry process : <br />
+                        Steps : <a href="#setting_designation_1">1</a> <a href="#setting_designation_2">2</a> <a href="#setting_designation_3">3</a> <a href="#setting_designation_4">4</a> <a href="#setting_designation_5">5</a> <a href="#setting_designation_6">6</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -164,12 +181,16 @@
                 <p>
 			The sector module may represent different business sectors or industries that the organization operates in or deals with. It helps categorize documents based on the sector they belong to.
                 </p>
-                 <br>Process: <br />
-                Go to Settings --> Sector <br />
-                Entry Process: <br />
-                Here given four steps to understand the entry process : <br />
-                Steps : <a href="#setting_sector_1">1</a> <a href="#setting_sector_2">2</a> <a href="#setting_sector_3">3</a> <a href="#setting_sector_4">4</a>
-                <br />
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Settings --> Sector <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#setting_sector_1">1</a> <a href="#setting_sector_2">2</a> <a href="#setting_sector_3">3</a> <a href="#setting_sector_4">4</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -193,12 +214,16 @@
                 <p>
 			The education module might be used to store documents related to the educational qualifications of employees or members of the organization.
                 </p>
-                <br /> Process: <br />
-                Go to Settings --> Education <br />
-                Entry Process: <br />
-                Here given four steps to understand the entry process : <br />
-                Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
-                <br />
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Settings --> Education <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -222,12 +247,16 @@
                 <p>
 			This module seems to be focused on categorizing documents based on religious affiliations of individuals or organizations, if relevant.
                 </p>
-                <br /> Process: <br />
-                Go to Settings --> Education <br />
-                Entry Process: <br />
-                Here given four steps to understand the entry process : <br />
-                Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
-                <br />
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Settings --> Religion <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -251,12 +280,16 @@
                 <p>
 			The employment contract module would be used to manage documents related to employment contracts or agreements between the organization and its employees.
                 </p>
-                <br /> Process: <br />
-                Go to Settings --> Education <br />
-                Entry Process: <br />
-                Here given four steps to understand the entry process : <br />
-                Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
-                <br />
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Settings --> Employment Contract <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">

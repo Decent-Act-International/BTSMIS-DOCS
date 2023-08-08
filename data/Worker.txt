@@ -40,16 +40,26 @@
                     <br />
                     <strong>Access Control:</strong> Access to worker profiles and associated documents is often restricted based on user roles and permissions. This ensures that sensitive information is only accessible to authorized personnel, such as HR managers and supervisors.  
                 </p>
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Workers --> Add Workers <br />
+                        Entry Process: <br />
+                        Here given three steps to understand the entry process : <br />
+                        Steps : <a href="#workers_1">1</a> <a href="#workers_2">2</a> <a href="#workers_3">3</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/workers_1.png" class="img-fluid" alt="workers_1">
+            <img id ="workers_1" src="./img/workers_1.png" class="img-fluid" alt="workers_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/workers_2.png" class="img-fluid" alt="workers_2">
+            <img id ="workers_2" src="./img/workers_2.png" class="img-fluid" alt="workers_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/workers_3.png" class="img-fluid" alt="workers_3">
+            <img id ="workers_3" src="./img/workers_3.png" class="img-fluid" alt="workers_3">
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/workers/workers-list"><span><h2 class="text-start"><strong>Worker List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
@@ -72,28 +82,38 @@
                     <br />
                     By combining the Workers and Workers List modules, the document management app provides an efficient and organized way to manage worker-related documents and information. It streamlines the process of accessing worker profiles and associated documents, improves document retrieval, and ensures data security and privacy. Additionally, it enhances the overall efficiency of workforce management within the organization.
                 </p>
+                <div class="entry_process p-2">
+                    <p>
+                        Process: <br />
+                        Go to Workers --> Workers List <br />
+                        Entry Process: <br />
+                        Here given four steps to understand the entry process : <br />
+                        Steps : <a href="#workers_list_1">1</a> <a href="#workers_list_2">2</a> <a href="#workers_list_3">3</a> <a href="#workers_list_4">4</a> <a href="#workers_list_5">5</a> <a href="#workers_list_6">6</a> <a href="#workers_list_7">7</a>
+                        <br />
+                    </p>
+                </div>
             </section>
         </div>
 	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_1.png" class="img-fluid" alt="worker_list_1">
+            <img id ="workers_list_1" src="./img/worker_list_1.png" class="img-fluid" alt="worker_list_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_2.png" class="img-fluid" alt="worker_list_2">
+            <img id ="workers_list_2" src="./img/worker_list_2.png" class="img-fluid" alt="worker_list_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_3.png" class="img-fluid" alt="worker_list_3">
+            <img id ="workers_list_3" src="./img/worker_list_3.png" class="img-fluid" alt="worker_list_3">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
+            <img id ="workers_list_4" src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
         </div>
 	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
+            <img id ="workers_list_5" src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/worker_list_5.png" class="img-fluid" alt="worker_list_5">
+            <img id ="workers_list_6" src="./img/worker_list_5.png" class="img-fluid" alt="worker_list_5">
         </div>
         <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/worker_list_6.png" class="img-fluid" alt="worker_list_6">
+            <img id ="workers_list_7" src="./img/worker_list_6.png" class="img-fluid" alt="worker_list_6">
         </div>
     </div>
     <div class="row">
