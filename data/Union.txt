@@ -90,7 +90,7 @@
                         Process: <br />
                         Go to Union --> Union List <br />
                         Entry Process: <br />
-                        Here given four steps to understand the entry process : <br />
+                        Here given three steps to understand the entry process : <br />
                         Steps : <a href="#union_list_1">1</a> <a href="#union_list_2">2</a> <a href="#union_list_3">3</a>
                         <br />
                     </p>

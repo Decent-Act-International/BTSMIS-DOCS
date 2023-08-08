@@ -85,7 +85,7 @@
                         Process: <br />
                         Go to Association --> Association List <br />
                         Entry Process: <br />
-                        Here given four steps to understand the entry process : <br />
+                        Here given three steps to understand the entry process : <br />
                         Steps : <a href="#association_list_1">1</a> <a href="#association_list_2">2</a> <a href="#association_list_3">3</a>
                         <br />
                     </p>
