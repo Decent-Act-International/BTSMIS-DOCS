@@ -6,8 +6,8 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li><a href="#">Add Association</a></li>
-                <li><a href="#">Association List</a></li>
+                <li><a href="#add_association">Add Association</a></li>
+                <li><a href="#association_list">Association List</a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
@@ -53,7 +53,7 @@
             <a href="https://app.bangladeshtanneries.org/#/association/association-list/"><span><h2 class="text-start"><strong>Association List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <section id="union_list">
+            <section id="association_list">
                 <strong>Association List:</strong>
                 <p>
                     The Association List module provides a user-friendly interface that displays a comprehensive list of all the associations or organizations managed within the document management app. It serves as a navigational tool to access individual association profiles and their associated documents efficiently. Here are some key aspects of this module:
