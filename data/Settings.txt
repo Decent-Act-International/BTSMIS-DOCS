@@ -312,24 +312,24 @@
                         Go to Settings --> Religion <br />
                         Entry Process: <br />
                         Here given four steps to understand the entry process : <br />
-                        Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a
-                            href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
+                        Steps : <a href="#religion_1">1</a> <a href="#religion_2">2</a> <a
+                            href="#religion_3">3</a> <a href="#religion_4">4</a>
                         <br />
                     </p>
                 </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_1.png" class="img-fluid" alt="religion_1">
+            <img id="religion_1" src="./img/setting_religion_1.png" class="img-fluid" alt="religion_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_2.png" class="img-fluid" alt="religion_2">
+            <img id="religion_2" src="./img/setting_religion_2.png" class="img-fluid" alt="religion_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_3.png" class="img-fluid" alt="religion_3">
+            <img id="religion_3" src="./img/setting_religion_3.png" class="img-fluid" alt="religion_3">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_religion_4.png" class="img-fluid" alt="religion_4">
+            <img id="religion_4" src="./img/setting_religion_4.png" class="img-fluid" alt="religion_4">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <a href="https://app.bangladeshtanneries.org/#/settings/employment-contract/"><span>
@@ -350,24 +350,24 @@
                         Go to Settings --> Employment Contract <br />
                         Entry Process: <br />
                         Here given four steps to understand the entry process : <br />
-                        Steps : <a href="#setting_education_1">1</a> <a href="#setting_education_2">2</a> <a
-                            href="#setting_education_3">3</a> <a href="#setting_education_4">4</a>
+                        Steps : <a href="#employment_contract_1">1</a> <a href="#employment_contract_2">2</a> <a
+                            href="#employment_contract_3">3</a> <a href="#employment_contract_4">4</a>
                         <br />
                     </p>
                 </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_employment_contract_1.png" class="img-fluid" alt="employment_contract_1">
+            <img id="employment_contract_1" src="./img/setting_employment_contract_1.png" class="img-fluid" alt="employment_contract_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_employment_contract_2.png" class="img-fluid" alt="employment_contract_2">
+            <img id="employment_contract_2" src="./img/setting_employment_contract_2.png" class="img-fluid" alt="employment_contract_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img src="./img/setting_employment_contract_3.png" class="img-fluid" alt="employment_contract_3">
+            <img id="employment_contract_3" src="./img/setting_employment_contract_3.png" class="img-fluid" alt="employment_contract_3">
         </div>
         <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img src="./img/setting_employment_contract_4.png" class="img-fluid" alt="employment_contract_4">
+            <img id="employment_contract_4" src="./img/setting_employment_contract_4.png" class="img-fluid" alt="employment_contract_4">
         </div>
         <div class="col-md-12 shadow p-3 mb-1 bg-body rounded">
             <small class="d-flex justify-content-center">

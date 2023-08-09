@@ -57,18 +57,13 @@
                 </p>
             </section>
         </div>
-        <div class="row">
-            <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-                <img src="./img/approval_list.png" class="img-fluid" alt="union_1">
-            </div>
+        <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
+            <img src="./img/approval_list.png" class="img-fluid" alt="union_1">
         </div>
-
-        <div class="row">
-            <div class="col-md-12 shadow p-3 mb-1 bg-body rounded">
-                <small class="d-flex justify-content-center">
-                    &copy; BTSMIS, 2023. All rights reserved.
-                </small>
-            </div>
+        <div class="col-md-12 shadow p-3 mb-1 bg-body rounded">
+            <small class="d-flex justify-content-center">
+                &copy; BTSMIS, 2023. All rights reserved.
+            </small>
         </div>
     </div>
 </div>
