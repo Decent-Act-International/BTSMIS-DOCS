@@ -1,7 +1,10 @@
-<div class = "container-fluid">
+<div class="container-fluid">
     <div class="row mt-5">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <a href="https://app.bangladeshtanneries.org/#/association/add-association/"><span><h1 class="text-start"><strong>Association</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h1></span></a>
+            <a href="https://app.bangladeshtanneries.org/#/association/add-association/"><span>
+                    <h1 class="text-start"><strong>Association</strong><span class="tab"></span><i
+                            style="font-size:25px" class="fa">&#xf064;</i></h1>
+                </span></a>
         </div>
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
@@ -13,80 +16,109 @@
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
             <div class="info p-2">
                 <p>
-                    <strong>Note!</strong> Here are some required field. Such as: <span class = "asterisk">*</span>Association Name;
+                    <strong>Note!</strong> Here are some required field. Such as: <span
+                        class="asterisk">*</span>Association Name;
                     <br />
                     Mobile or Phone number should be 11 digit entry.
                 </p>
             </div>
-        </div> 
+        </div>
     </div>
     <div class="row mt-5">
-    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="add_association">
                 <strong>Add Association:</strong>
                 <p>
-                    The Association module serves as a central repository for managing information and documents related to various associations or organizations. Each association is represented by a unique profile that contains essential details and associated documents. Here are some key features and functionalities of this module:
+                    The Association module serves as a central repository for managing information and documents related
+                    to various associations or organizations. Each association is represented by a unique profile that
+                    contains essential details and associated documents. Here are some key features and functionalities
+                    of this module:
                     <br />
-                    <strong>Association Profiles:</strong> Each association has a dedicated profile that includes information such as the association's name, address, contact details, and other relevant information.
+                    <strong>Association Profiles:</strong> Each association has a dedicated profile that includes
+                    information such as the association's name, address, contact details, and other relevant
+                    information.
                     <br />
-                    <strong>Document Management:</strong> The module allows the association profile to be associated with various documents, such as legal agreements, bylaws, meeting minutes, financial reports, and other important records specific to the association.
+                    <strong>Document Management:</strong> The module allows the association profile to be associated
+                    with various documents, such as legal agreements, bylaws, meeting minutes, financial reports, and
+                    other important records specific to the association.
                     <br />
-                    <strong>Document Versioning:</strong> To maintain data integrity, the app may include version control features to track changes made to documents associated with an association over time.
+                    <strong>Document Versioning:</strong> To maintain data integrity, the app may include version
+                    control features to track changes made to documents associated with an association over time.
                     <br />
-                    <strong>Access Control:</strong>  Access to association profiles and associated documents can be controlled based on user roles and permissions. This ensures that only authorized users can view and manage sensitive association-related information.
+                    <strong>Access Control:</strong> Access to association profiles and associated documents can be
+                    controlled based on user roles and permissions. This ensures that only authorized users can view and
+                    manage sensitive association-related information.
                 </p>
                 <div class="entry_process p-2">
                     <p>
-                        Process: <br />
+                        <strong>Process:</strong> <br />
                         Go to Association --> Add Association <br />
                         Entry Process: <br />
                         Here given four steps to understand the entry process : <br />
-                        Steps : <a href="#association_1">1</a> <a href="#association_2">2</a> <a href="#association_3">3</a> <a href="#association_4">4</a>
+                        Steps : <a href="#association_1">1</a> <a href="#association_2">2</a> <a
+                            href="#association_3">3</a> <a href="#association_4">4</a>
                         <br />
                     </p>
                 </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "association_1" src="./img/association_1.png" class="img-fluid" alt="association_1">
+            <img id="association_1" src="./img/association_1.png" class="img-fluid" alt="association_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "association_2" src="./img/association_2.png" class="img-fluid" alt="association_2">
+            <img id="association_2" src="./img/association_2.png" class="img-fluid" alt="association_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "association_3" src="./img/association_3.png" class="img-fluid" alt="association_3">
+            <img id="association_3" src="./img/association_3.png" class="img-fluid" alt="association_3">
         </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "association_4" src="./img/association_4.png" class="img-fluid" alt="association_4">
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <img id="association_4" src="./img/association_4.png" class="img-fluid" alt="association_4">
         </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <a href="https://app.bangladeshtanneries.org/#/association/association-list/"><span><h2 class="text-start"><strong>Association List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <a href="https://app.bangladeshtanneries.org/#/association/association-list/"><span>
+                    <h2 class="text-start"><strong>Association List</strong><span class="tab"></span><i
+                            style="font-size:25px" class="fa">&#xf064;</i></h2>
+                </span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="association_list">
                 <strong>Association List:</strong>
                 <p>
-                    The Association List module provides a user-friendly interface that displays a comprehensive list of all the associations or organizations managed within the document management app. It serves as a navigational tool to access individual association profiles and their associated documents efficiently. Here are some key aspects of this module:
+                    The Association List module provides a user-friendly interface that displays a comprehensive list of
+                    all the associations or organizations managed within the document management app. It serves as a
+                    navigational tool to access individual association profiles and their associated documents
+                    efficiently. Here are some key aspects of this module:
                     <br />
-                    <strong>List View:</strong> The module presents a tabular or grid-based view of all associations, showing essential details such as names, addresses, and contact information.
+                    <strong>List View:</strong> The module presents a tabular or grid-based view of all associations,
+                    showing essential details such as names, addresses, and contact information.
                     <br />
-                    <strong>Search and Filters:</strong> Users can search for specific associations based on various criteria, such as association name, location, or any custom fields defined for association profiles.
+                    <strong>Search and Filters:</strong> Users can search for specific associations based on various
+                    criteria, such as association name, location, or any custom fields defined for association profiles.
                     <br />
-                    <strong>Quick Access:</strong> Clicking on an association's name or profile entry in the list leads to the detailed profile of that association within the Association module.
+                    <strong>Quick Access:</strong> Clicking on an association's name or profile entry in the list leads
+                    to the detailed profile of that association within the Association module.
                     <br />
-                    <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange associations alphabetically, by location, or other relevant attributes.
+                    <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange
+                    associations alphabetically, by location, or other relevant attributes.
                     <br />
-                    <strong>Integration with Union Module:</strong>  The Association List module is closely integrated with the Association module. Clicking on an association in the list provides immediate access to their detailed profile and associated documents.
+                    <strong>Integration with Union Module:</strong> The Association List module is closely integrated
+                    with the Association module. Clicking on an association in the list provides immediate access to
+                    their detailed profile and associated documents.
                     <br />
-                    By combining the Association and Association List modules, the document management app provides an efficient way to manage and access documents related to various associations or organizations. It streamlines the process of handling association-related information, improves document retrieval, and ensures data security and privacy. This setup also enhances the overall organization and management of important records for each association within the system.
+                    By combining the Association and Association List modules, the document management app provides an
+                    efficient way to manage and access documents related to various associations or organizations. It
+                    streamlines the process of handling association-related information, improves document retrieval,
+                    and ensures data security and privacy. This setup also enhances the overall organization and
+                    management of important records for each association within the system.
                 </p>
                 <div class="entry_process p-2">
                     <p>
-                        Process: <br />
+                        <strong>Process:</strong> <br />
                         Go to Association --> Association List <br />
                         Entry Process: <br />
                         Here given three steps to understand the entry process : <br />
-                        Steps : <a href="#association_list_1">1</a> <a href="#association_list_2">2</a> <a href="#association_list_3">3</a>
+                        Steps : <a href="#association_list_1">1</a> <a href="#association_list_2">2</a> <a
+                            href="#association_list_3">3</a>
                         <br />
                     </p>
                 </div>
@@ -95,10 +127,10 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id="association_list_1" src="./img/association_list_1.png" class="img-fluid" alt="association_list_1">
         </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id="association_list_2" src="./img/association_list_2.png" class="img-fluid" alt="association_list_2">
         </div>
-	    <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
+        <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
             <img id="association_list_3" src="./img/association_list_3.png" class="img-fluid" alt="association_list_3">
         </div>
     </div>

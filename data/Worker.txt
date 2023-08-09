@@ -1,7 +1,10 @@
-<div class = "container-fluid">
+<div class="container-fluid">
     <div class="row mt-5">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <a href="https://app.bangladeshtanneries.org/#/workers/add-workers/"><span><h1 class="text-start"><strong>Worker</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h1></span></a>
+            <a href="https://app.bangladeshtanneries.org/#/workers/add-workers/"><span>
+                    <h1 class="text-start"><strong>Worker</strong><span class="tab"></span><i style="font-size:25px"
+                            class="fa">&#xf064;</i></h1>
+                </span></a>
         </div>
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
@@ -13,7 +16,8 @@
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
             <div class="info p-2">
                 <p>
-                    <strong>Note!</strong> Here are some required field. Such as: <span class = "asterisk">*</span>First Name, <span class = "asterisk">*</span>Date of Birth, <span class = "asterisk">*</span>Factory Name;
+                    <strong>Note!</strong> Here are some required field. Such as: <span class="asterisk">*</span>First
+                    Name, <span class="asterisk">*</span>Date of Birth, <span class="asterisk">*</span>Factory Name;
                     <br />
                     NID should be 10 or 13 digit entry;
                     Mobile or Phone number should be 11 digit entry.
@@ -26,23 +30,35 @@
             <section id="add_workers">
                 <strong>Add Workers:</strong>
                 <p>
-                    The Workers module is a central database that contains comprehensive information about individual workers or employees within an organization. It acts as a repository for various worker-related documents and data. Here are some of the key features and functionalities of this module:
+                    The Workers module is a central database that contains comprehensive information about individual
+                    workers or employees within an organization. It acts as a repository for various worker-related
+                    documents and data. Here are some of the key features and functionalities of this module:
                     <br />
-                    Each worker is represented by a unique profile that includes personal details such as name, contact information, address, and other identifying information.
+                    Each worker is represented by a unique profile that includes personal details such as name, contact
+                    information, address, and other identifying information.
                     <br />
-                    <strong>Worker Profiles:</strong> Each worker is represented by a unique profile that includes personal details such as name, contact information, address, and other identifying information.
+                    <strong>Worker Profiles:</strong> Each worker is represented by a unique profile that includes
+                    personal details such as name, contact information, address, and other identifying information.
                     <br />
-                    <strong>Employment Details:</strong> The module contains information about the worker's job title, department, designation, date of hire, employment status (full-time, part-time, contract, etc.), and other relevant employment details.
+                    <strong>Employment Details:</strong> The module contains information about the worker's job title,
+                    department, designation, date of hire, employment status (full-time, part-time, contract, etc.), and
+                    other relevant employment details.
                     <br />
-                    <strong>Documentation Management:</strong> Various worker-related documents are associated with each worker's profile. These documents may include resumes, CVs, cover letters, offer letters, employment contracts, certificates, training records, performance appraisals, disciplinary actions, and more.
+                    <strong>Documentation Management:</strong> Various worker-related documents are associated with each
+                    worker's profile. These documents may include resumes, CVs, cover letters, offer letters, employment
+                    contracts, certificates, training records, performance appraisals, disciplinary actions, and more.
                     <br />
-                    <strong>Document Versioning:</strong> The module may implement version control to track changes to worker-related documents over time, ensuring that the most recent and accurate information is available.
+                    <strong>Document Versioning:</strong> The module may implement version control to track changes to
+                    worker-related documents over time, ensuring that the most recent and accurate information is
+                    available.
                     <br />
-                    <strong>Access Control:</strong> Access to worker profiles and associated documents is often restricted based on user roles and permissions. This ensures that sensitive information is only accessible to authorized personnel, such as HR managers and supervisors.  
+                    <strong>Access Control:</strong> Access to worker profiles and associated documents is often
+                    restricted based on user roles and permissions. This ensures that sensitive information is only
+                    accessible to authorized personnel, such as HR managers and supervisors.
                 </p>
                 <div class="entry_process p-2">
                     <p>
-                        Process: <br />
+                        <strong>Process:</strong> <br />
                         Go to Workers --> Add Workers <br />
                         Entry Process: <br />
                         Here given three steps to understand the entry process : <br />
@@ -53,67 +69,86 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_1" src="./img/workers_1.png" class="img-fluid" alt="workers_1">
+            <img id="workers_1" src="./img/workers_1.png" class="img-fluid" alt="workers_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_2" src="./img/workers_2.png" class="img-fluid" alt="workers_2">
+            <img id="workers_2" src="./img/workers_2.png" class="img-fluid" alt="workers_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_3" src="./img/workers_3.png" class="img-fluid" alt="workers_3">
+            <img id="workers_3" src="./img/workers_3.png" class="img-fluid" alt="workers_3">
         </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <a href="https://app.bangladeshtanneries.org/#/workers/workers-list"><span><h2 class="text-start"><strong>Worker List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <a href="https://app.bangladeshtanneries.org/#/workers/workers-list"><span>
+                    <h2 class="text-start"><strong>Worker List</strong><span class="tab"></span><i
+                            style="font-size:25px" class="fa">&#xf064;</i></h2>
+                </span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="workers_list">
                 <strong>Workers List:</strong>
                 <p>
-                    The Workers List module is a user-friendly interface that displays a comprehensive list of all the workers or employees in the organization. It serves as a navigational tool to access individual worker profiles and their associated documents efficiently. Here are some key aspects of this module:
+                    The Workers List module is a user-friendly interface that displays a comprehensive list of all the
+                    workers or employees in the organization. It serves as a navigational tool to access individual
+                    worker profiles and their associated documents efficiently. Here are some key aspects of this
+                    module:
                     <br />
-                    <strong>List View:</strong> The module typically presents a tabular or grid-based view of all workers, showing essential details such as names, job titles, departments, and designations.
+                    <strong>List View:</strong> The module typically presents a tabular or grid-based view of all
+                    workers, showing essential details such as names, job titles, departments, and designations.
                     <br />
-                    <strong>Search and Filters:</strong> The Workers List module allows users to search for specific workers based on various criteria, such as name, department, designation, or any custom fields defined for workers' profiles.
+                    <strong>Search and Filters:</strong> The Workers List module allows users to search for specific
+                    workers based on various criteria, such as name, department, designation, or any custom fields
+                    defined for workers' profiles.
                     <br />
-                    <strong>Quick Access:</strong> Users can click on a worker's name or profile entry in the list to access their detailed profile and view the documents associated with them.
+                    <strong>Quick Access:</strong> Users can click on a worker's name or profile entry in the list to
+                    access their detailed profile and view the documents associated with them.
                     <br />
-                    <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange workers in alphabetical order, by hire date, or other relevant attributes.
+                    <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange workers in
+                    alphabetical order, by hire date, or other relevant attributes.
                     <br />
-                    <strong>Integration with Workers Module:</strong> The Workers List module is closely integrated with the Workers module. Clicking on a worker's name in the list leads to their detailed profile within the Workers module.
+                    <strong>Integration with Workers Module:</strong> The Workers List module is closely integrated with
+                    the Workers module. Clicking on a worker's name in the list leads to their detailed profile within
+                    the Workers module.
                     <br />
-                    By combining the Workers and Workers List modules, the document management app provides an efficient and organized way to manage worker-related documents and information. It streamlines the process of accessing worker profiles and associated documents, improves document retrieval, and ensures data security and privacy. Additionally, it enhances the overall efficiency of workforce management within the organization.
+                    By combining the Workers and Workers List modules, the document management app provides an efficient
+                    and organized way to manage worker-related documents and information. It streamlines the process of
+                    accessing worker profiles and associated documents, improves document retrieval, and ensures data
+                    security and privacy. Additionally, it enhances the overall efficiency of workforce management
+                    within the organization.
                 </p>
                 <div class="entry_process p-2">
                     <p>
-                        Process: <br />
+                        <strong>Process:</strong> <br />
                         Go to Workers --> Workers List <br />
                         Entry Process: <br />
-                        Here given four steps to understand the entry process : <br />
-                        Steps : <a href="#workers_list_1">1</a> <a href="#workers_list_2">2</a> <a href="#workers_list_3">3</a> <a href="#workers_list_4">4</a> <a href="#workers_list_5">5</a> <a href="#workers_list_6">6</a> <a href="#workers_list_7">7</a>
+                        Here given seven steps to understand the entry process : <br />
+                        Steps : <a href="#workers_list_1">1</a> <a href="#workers_list_2">2</a> <a
+                            href="#workers_list_3">3</a> <a href="#workers_list_4">4</a> <a href="#workers_list_5">5</a>
+                        <a href="#workers_list_6">6</a> <a href="#workers_list_7">7</a>
                         <br />
                     </p>
                 </div>
             </section>
         </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_list_1" src="./img/worker_list_1.png" class="img-fluid" alt="worker_list_1">
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <img id="workers_list_1" src="./img/worker_list_1.png" class="img-fluid" alt="worker_list_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_list_2" src="./img/worker_list_2.png" class="img-fluid" alt="worker_list_2">
+            <img id="workers_list_2" src="./img/worker_list_2.png" class="img-fluid" alt="worker_list_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_list_3" src="./img/worker_list_3.png" class="img-fluid" alt="worker_list_3">
+            <img id="workers_list_3" src="./img/worker_list_3.png" class="img-fluid" alt="worker_list_3">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_list_4" src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
-        </div>
-	<div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_list_5" src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
+            <img id="workers_list_4" src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id ="workers_list_6" src="./img/worker_list_5.png" class="img-fluid" alt="worker_list_5">
+            <img id="workers_list_5" src="./img/worker_list_4.png" class="img-fluid" alt="worker_list_4">
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <img id="workers_list_6" src="./img/worker_list_5.png" class="img-fluid" alt="worker_list_5">
         </div>
         <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img id ="workers_list_7" src="./img/worker_list_6.png" class="img-fluid" alt="worker_list_6">
+            <img id="workers_list_7" src="./img/worker_list_6.png" class="img-fluid" alt="worker_list_6">
         </div>
     </div>
     <div class="row">

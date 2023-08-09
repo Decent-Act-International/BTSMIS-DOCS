@@ -1,7 +1,10 @@
-<div class = "container-fluid">
+<div class="container-fluid">
     <div class="row mt-5">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <a href="https://app.bangladeshtanneries.org/#/factory/add-factory/"><span><h1 class="text-start"><strong>Factory</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h1></span></a>
+            <a href="https://app.bangladeshtanneries.org/#/factory/add-factory/"><span>
+                    <h1 class="text-start"><strong>Factory</strong><span class="tab"></span><i style="font-size:25px"
+                            class="fa">&#xf064;</i></h1>
+                </span></a>
         </div>
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
@@ -13,103 +16,133 @@
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
             <div class="info p-2">
                 <p>
-                    <strong>Note!</strong> Here are some required field. Such as: <span class = "asterisk">*</span>Factory Name;
+                    <strong>Note!</strong> Here are some required field. Such as: <span class="asterisk">*</span>Factory
+                    Name;
                     <br />
                     Mobile or Phone number should be 11 digit entry.
                 </p>
             </div>
         </div>
     </div>
-    
+
     <div class="row">
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="add_factory">
                 <strong>Add Factory:</strong>
                 <p>
-                    The Factory module serves as a centralized database for managing information and documents related to various factories or manufacturing facilities. Each factory is represented by a unique profile that contains essential details and associated documents. Here are some key features and functionalities of this module:
+                    The Factory module serves as a centralized database for managing information and documents related
+                    to various factories or manufacturing facilities. Each factory is represented by a unique profile
+                    that contains essential details and associated documents. Here are some key features and
+                    functionalities of this module:
                     <br />
-                    <strong>Factory Profiles:</strong> Each factory has a dedicated profile that includes information such as the factory's name, location, contact details, production capacity, operational status, and other relevant information.
+                    <strong>Factory Profiles:</strong> Each factory has a dedicated profile that includes information
+                    such as the factory's name, location, contact details, production capacity, operational status, and
+                    other relevant information.
                     <br />
-                    <strong>Document Management:</strong> The module allows the factory profile to be associated with various documents, such as production reports, quality control records, safety protocols, equipment manuals, maintenance logs, and other important documents specific to the factory.
+                    <strong>Document Management:</strong> The module allows the factory profile to be associated with
+                    various documents, such as production reports, quality control records, safety protocols, equipment
+                    manuals, maintenance logs, and other important documents specific to the factory.
                     <br />
-                    <strong>Document Versioning:</strong> To maintain data integrity, the app may include version control features to track changes made to documents associated with a factory over time.
+                    <strong>Document Versioning:</strong> To maintain data integrity, the app may include version
+                    control features to track changes made to documents associated with a factory over time.
                     <br />
-                    <strong>Access Control:</strong>  Access to factory profiles and associated documents can be controlled based on user roles and permissions. This ensures that only authorized personnel, such as factory managers and supervisors, can view and manage sensitive factory-related information.
+                    <strong>Access Control:</strong> Access to factory profiles and associated documents can be
+                    controlled based on user roles and permissions. This ensures that only authorized personnel, such as
+                    factory managers and supervisors, can view and manage sensitive factory-related information.
                 </p>
                 <div class="entry_process p-2">
                     <p>
-                        Process: <br />
+                        <strong>Process:</strong> <br />
                         Go to Factory --> Add Factory <br />
                         Entry Process: <br />
-                        Here given four steps to understand the entry process : <br />
-                        Steps : <a href="#factory_1">1</a> <a href="#factory_2">2</a> <a href="#factory_3">3</a> <a href="#factory_4">4</a> <a href="#factory_5">5</a>
+                        Here given five steps to understand the entry process : <br />
+                        Steps : <a href="#factory_1">1</a> <a href="#factory_2">2</a> <a href="#factory_3">3</a> <a
+                            href="#factory_4">4</a> <a href="#factory_5">5</a>
                         <br />
                     </p>
                 </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_1" src="./img/factory_1.png" class="img-fluid" alt="factory_1">
+            <img id="factory_1" src="./img/factory_1.png" class="img-fluid" alt="factory_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_2" src="./img/factory_2.png" class="img-fluid" alt="factory_2">
+            <img id="factory_2" src="./img/factory_2.png" class="img-fluid" alt="factory_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_3" src="./img/factory_3.png" class="img-fluid" alt="factory_3">
-        </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_4" src="./img/factory_4.png" class="img-fluid" alt="factory_4">
-        </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_5" src="./img/factory_5.png" class="img-fluid" alt="factory_5">
+            <img id="factory_3" src="./img/factory_3.png" class="img-fluid" alt="factory_3">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <a href="https://app.bangladeshtanneries.org/#/factory/factory-list/"><span><h2 class="text-start"><strong>Factory List</strong><span class="tab"></span><i style="font-size:25px" class="fa">&#xf064;</i></h2></span></a>
+            <img id="factory_4" src="./img/factory_4.png" class="img-fluid" alt="factory_4">
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <img id="factory_5" src="./img/factory_5.png" class="img-fluid" alt="factory_5">
+        </div>
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <a href="https://app.bangladeshtanneries.org/#/factory/factory-list/"><span>
+                    <h2 class="text-start"><strong>Factory List</strong><span class="tab"></span><i
+                            style="font-size:25px" class="fa">&#xf064;</i></h2>
+                </span></a>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="factory_list">
                 <strong>Factory List:</strong>
                 <p>
-                    The Factory List module provides a user-friendly interface that displays a comprehensive list of all the factories or manufacturing facilities managed within the document management app. It serves as a navigational tool to access individual factory profiles and their associated documents efficiently. Here are some key aspects of this module:
+                    The Factory List module provides a user-friendly interface that displays a comprehensive list of all
+                    the factories or manufacturing facilities managed within the document management app. It serves as a
+                    navigational tool to access individual factory profiles and their associated documents efficiently.
+                    Here are some key aspects of this module:
                     <br />
-                    <strong>List View:</strong> The module presents a tabular or grid-based view of all factories, showing essential details such as factory names, locations, and contact information.
+                    <strong>List View:</strong> The module presents a tabular or grid-based view of all factories,
+                    showing essential details such as factory names, locations, and contact information.
                     <br />
-                    <strong>Search and Filters:</strong>  Users can search for specific factories based on various criteria, such as factory name, location, production capacity, or any custom fields defined for factory profiles.
+                    <strong>Search and Filters:</strong> Users can search for specific factories based on various
+                    criteria, such as factory name, location, production capacity, or any custom fields defined for
+                    factory profiles.
                     <br />
-                    <strong>Quick Access:</strong>  Clicking on a factory's name or profile entry in the list leads to the detailed profile of that factory within the Factory module.
+                    <strong>Quick Access:</strong> Clicking on a factory's name or profile entry in the list leads to
+                    the detailed profile of that factory within the Factory module.
                     <br />
-                    <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange factories alphabetically, by location, or other relevant attributes.
+                    <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange factories
+                    alphabetically, by location, or other relevant attributes.
                     <br />
-                    <strong>Integration with Workers Module:</strong> The Factory List module is closely integrated with the Factory module. Clicking on a factory in the list provides immediate access to its detailed profile and associated documents.
+                    <strong>Integration with Workers Module:</strong> The Factory List module is closely integrated with
+                    the Factory module. Clicking on a factory in the list provides immediate access to its detailed
+                    profile and associated documents.
                     <br />
-                    By combining the Factory and Factory List modules, the document management app provides an efficient way to manage and access documents related to various factories or manufacturing facilities. It streamlines the process of handling factory-related information, improves document retrieval, and ensures data security and privacy. This setup also enhances the overall organization and management of important records for each factory within the system.
+                    By combining the Factory and Factory List modules, the document management app provides an efficient
+                    way to manage and access documents related to various factories or manufacturing facilities. It
+                    streamlines the process of handling factory-related information, improves document retrieval, and
+                    ensures data security and privacy. This setup also enhances the overall organization and management
+                    of important records for each factory within the system.
                 </p>
                 <div class="entry_process p-2">
                     <p>
-                        Process: <br />
+                        <strong>Process:</strong> <br />
                         Go to Factory --> Factory List <br />
                         Entry Process: <br />
                         Here given five steps to understand the entry process : <br />
-                        Steps : <a href="#factory_list_1">1</a> <a href="#factory_list_2">2</a> <a href="#factory_list_3">3</a> <a href="#factory_list_4">4</a> <a href="#factory_list_5">5</a>
+                        Steps : <a href="#factory_list_1">1</a> <a href="#factory_list_2">2</a> <a
+                            href="#factory_list_3">3</a> <a href="#factory_list_4">4</a> <a href="#factory_list_5">5</a>
                         <br />
                     </p>
                 </div>
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_list_1" src="./img/factory_list_1.png" class="img-fluid" alt="factory_list_1">
-        </div>
-	    <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_list_2" src="./img/factory_list_2.png" class="img-fluid" alt="factory_list_2">
+            <img id="factory_list_1" src="./img/factory_list_1.png" class="img-fluid" alt="factory_list_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_list_3" src="./img/factory_list_3.png" class="img-fluid" alt="factory_list_3">
+            <img id="factory_list_2" src="./img/factory_list_2.png" class="img-fluid" alt="factory_list_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id = "factory_list_4" src="./img/factory_list_4.png" class="img-fluid" alt="factory_list_4">
+            <img id="factory_list_3" src="./img/factory_list_3.png" class="img-fluid" alt="factory_list_3">
         </div>
-	    <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
-            <img id = "factory_list_5" src="./img/factory_list_5.png" class="img-fluid" alt="factory_list_5">
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
+            <img id="factory_list_4" src="./img/factory_list_4.png" class="img-fluid" alt="factory_list_4">
+        </div>
+        <div class="col-md-12 shadow p-3 mb-5 bg-body rounded">
+            <img id="factory_list_5" src="./img/factory_list_5.png" class="img-fluid" alt="factory_list_5">
         </div>
     </div>
     <div class="row">
