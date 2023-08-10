@@ -7,7 +7,11 @@ function fetchData(file) {
 }
 
 function display(params) {
+  console.log(`I am in ${params}`);
+  sessionStorage.setItem("key", params);
+
   let file = `./data/${params}.txt`;
+
   switch (params) {
     case "Dashboard":
       fetchData(file);
@@ -34,4 +38,9 @@ function display(params) {
       fetchData(file);
       break;
   }
+}
+
+function overview() {
+  sessionStorage.removeItem("reloaded");
+  window.location.href = "index.html";
 }
