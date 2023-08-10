@@ -1,8 +1,25 @@
-    // Add an event listener to the 'beforeunload' event
-    window.addEventListener("beforeunload", function (event) {
-        // Cancel the event to prevent the page from being reloaded
-        event.preventDefault();
-        // Set a custom message in the dialog box
-        event.returnValue =
-          "Are you sure you want to leave this page? Your changes may not be saved.";
-      });
+window.onload = function() {
+    var reloaded = sessionStorage.getItem("reloaded");
+    if (reloaded) {
+        // Page was reloaded
+        myPostReloadFunction();
+        sessionStorage.removeItem("reloaded");
+    }
+};
+
+window.onbeforeunload = function() {
+    sessionStorage.setItem("reloaded", "true");
+};
+
+function myPostReloadFunction() {
+    console.log("Page was reloaded. Running post-reload function.");
+    // Add your function's code here
+    var presetValue = "Union";
+    if (presetValue != null) {
+        display(presetValue);
+        console.log(presetValue)
+        presetValue = null;
+    } else {
+        console.log(presetValue)
+    }
+}

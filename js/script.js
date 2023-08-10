@@ -4,8 +4,6 @@ function fetchData(file) {
   fetch(file)
     .then((x) => x.text())
     .then((y) => (display.innerHTML = y));
-  
-  return false;
 }
 
 function display(params) {
