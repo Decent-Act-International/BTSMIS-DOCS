@@ -34,13 +34,12 @@ function display(params) {
     case "Users":
       fetchData(file);
       break;
-    case "Overview":
-      fetchData(file);
+    default:
       break;
   }
 }
-
+// for main page
 function overview() {
-  sessionStorage.removeItem("reloaded");
+  sessionStorage.removeItem("key");
   window.location.href = "index.html";
 }
