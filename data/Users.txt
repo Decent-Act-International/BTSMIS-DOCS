@@ -9,8 +9,8 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li><a href="#user-role">Add user role</a></li>
-                <li><a href="#approval_list">Approval</a></li>
+                <li class = "table_of_content"><a href="#user-role">Add user role</a></li>
+                <li class = "table_of_content"><a href="#approval_list">Approval</a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">

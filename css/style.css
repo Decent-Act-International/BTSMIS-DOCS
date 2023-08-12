@@ -224,3 +224,29 @@ a {
   border-left: 6px solid #f44336;
   border-radius: 10px;
 }
+@media screen and (max-width: 768px) {
+  .table_of_content {
+    /* user friendly font size */
+    font-size: 1.2rem;
+    /* padding user friendly */
+    padding: 0.3rem; 
+
+  }
+  
+}
+
+/* for brand responsive any device also content center also */
+@media screen and (max-width: 700px) {
+  #brand-content {
+    /* content: "BTSMIS DOCS."; */
+    /* user friendly font size */
+    font-size: 1rem;
+    /* padding user friendly */
+    /* padding: 0.3rem;  */
+    
+    text-align: center;
+    /* content center */
+    margin: auto;
+  }
+  
+}

@@ -9,8 +9,8 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li><a href="#add_association">Add Association</a></li>
-                <li><a href="#association_list">Association List</a></li>
+                <li class = "table_of_content"><a href="#add_association">Add Association</a></li>
+                <li class = "table_of_content"><a href="#association_list">Association List</a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
@@ -63,7 +63,7 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id="association_1" src="./img/diagram-export-8_10_2023, 6_18_23 PM.png" class="img-fluid" alt="association_1">
+            <img id="association_1" src="./img/diagram-export-8_12_2023, 1_14_54 PM.png" class="img-fluid" alt="association_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id="association_2" src="./img/association_2.png" class="img-fluid" alt="association_2">
@@ -125,7 +125,7 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id="association_list_1" src="./img/diagram-export-8_10_2023, 6_28_40 PM.png" class="img-fluid" alt="association_list_1">
+            <img id="association_list_1" src="./img/diagram-export-8_12_2023, 1_18_03 PM.png" class="img-fluid" alt="association_list_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id="association_list_2" src="./img/association_list_2.png" class="img-fluid" alt="association_list_2">

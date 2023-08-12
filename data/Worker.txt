@@ -9,8 +9,8 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li><a href="#add_workers">Add Workers</a></li>
-                <li><a href="#workers_list">Workers List</a></li>
+                <li class = "table_of_content"><a href="#add_workers">Add Workers</a></li>
+                <li class = "table_of_content"><a href="#workers_list">Workers List</a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
@@ -69,10 +69,10 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id="workers_1" src="./img/diagram-export-8_12_2023, 9_11_55 AM.png" class="img-fluid" alt="workers_1">
+            <img id="workers_1" src="./img/diagram-export-8_12_2023, 1_01_05 PM.png" class="img-fluid" alt="workers_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id="workers_2" src="./img/diagram-export-8_12_2023, 9_16_27 AM.png" class="img-fluid" alt="workers_2">
+            <img id="workers_2" src="./img/diagram-export-8_12_2023, 12_51_59 PM.png" class="img-fluid" alt="workers_2">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id="workers_3" src="./img/diagram-export-8_10_2023, 5_27_31 PM.png" class="img-fluid" alt="workers_3">
@@ -130,7 +130,7 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id="workers_list_1" src="./img/diagram-export-8_10_2023, 6_39_16 PM.png" class="img-fluid" alt="worker_list_1">
+            <img id="workers_list_1" src="./img/diagram-export-8_12_2023, 1_09_00 PM.png" class="img-fluid" alt="worker_list_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id="workers_list_2" src="./img/worker_list_2.png" class="img-fluid" alt="worker_list_2">

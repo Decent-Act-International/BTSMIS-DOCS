@@ -6,14 +6,14 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li><a href="#national_federation">National Federation</a></li>
-                <li><a href="#sectoral_federation">Sectoral Federation</a></li>
-                <li><a href="#department">Department</a></li>
-                <li><a href="#designation">Designation</a></li>
-                <li><a href="#sector">Sector</a></li>
-                <li><a href="#education">Education</a></li>
-                <li><a href="#religion">Religion</a></li>
-                <li><a href="#employment_contract">Employment Contract </a></li>
+                <li class = "table_of_content"><a href="#national_federation">National Federation</a></li>
+                <li class = "table_of_content"><a href="#sectoral_federation">Sectoral Federation</a></li>
+                <li class = "table_of_content"><a href="#department">Department</a></li>
+                <li class = "table_of_content"><a href="#designation">Designation</a></li>
+                <li class = "table_of_content"><a href="#sector">Sector</a></li>
+                <li class = "table_of_content"><a href="#education">Education</a></li>
+                <li class = "table_of_content"><a href="#religion">Religion</a></li>
+                <li class = "table_of_content"><a href="#employment_contract">Employment Contract </a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
@@ -156,7 +156,7 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id="setting_department_1" src="./img/diagram-export-8_12_2023, 8_38_43 AM.png" class="img-fluid"
+            <img id="setting_department_1" src="./img/diagram-export-8_12_2023, 1_31_12 PM.png" class="img-fluid"
                 alt="setting_department_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -200,7 +200,7 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <img id="setting_designation_1" src="./img/diagram-export-8_12_2023, 8_50_15 AM.png" class="img-fluid" alt="designation_1">
+            <img id="setting_designation_1" src="./img/diagram-export-8_12_2023, 1_37_27 PM.png" class="img-fluid" alt="designation_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <img id="setting_designation_2" src="./img/setting_designation_2.png" class="img-fluid" alt="designation_2">
