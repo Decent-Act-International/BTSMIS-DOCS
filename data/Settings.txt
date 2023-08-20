@@ -45,6 +45,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="national_federation">
                 <strong>National Federation:</strong>
+                
                 <p>
                     This module likely pertains to the national-level organizations or federations. It could store
                     documents related to their activities, policies, and other important information specific to the
@@ -53,7 +54,6 @@
                 <div class="entry_process p-2">
                     <p>
                         <strong>Process: </strong>
-                        <br />
                         Go to Settings --> National Federation <br />
                         Entry Process: <br />
                         Here given four steps to understand the entry process : <br />
@@ -66,7 +66,7 @@
             </section>
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded image-container">
-            <img id="setting_national_federation_1" src="./img/diagram-export-8_12_2023, 3_33_16 PM.png" class="img-fluid clickable-image"
+            <img id="setting_national_federation_1" src="./img/diagram-export-8_12_2023, 3_33_16 PM.png" class="img-fluid"
                 alt="setting_national_federation_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
@@ -90,6 +90,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="sectoral_federation">
                 <strong>Sectoral Federation:</strong>
+                
                 <p>
                     This module focuses on sectoral federations or industry-specific organizations. It would contain
                     documents related to different sectors or industries, such as manufacturing, healthcare, finance,
@@ -138,6 +139,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="department">
                 <strong>Department:</strong>
+                
                 <p>
                     The department module is likely used to categorize documents based on different departments within
                     an organization. For example, you might have documents related to HR, Finance, Marketing, and so on.
@@ -180,6 +182,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="designation">
                 <strong>Designation:</strong>
+                
                 <p>
                     The designation module could store documents based on different job roles or positions within an
                     organization. This allows documents to be organized based on the responsibilities of different
@@ -226,6 +229,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="sector">
                 <strong>Sector:</strong>
+                
                 <p>
                     The sector module may represent different business sectors or industries that the organization
                     operates in or deals with. It helps categorize documents based on the sector they belong to.
@@ -264,6 +268,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="education">
                 <strong>Education:</strong>
+                
                 <p>
                     The education module might be used to store documents related to the educational qualifications of
                     employees or members of the organization.
@@ -302,6 +307,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="religion">
                 <strong>Religion:</strong>
+                
                 <p>
                     This module seems to be focused on categorizing documents based on religious affiliations of
                     individuals or organizations, if relevant.
@@ -340,6 +346,7 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="employment_contract">
                 <strong>Employment Contract:</strong>
+                
                 <p>
                     The employment contract module would be used to manage documents related to employment contracts or
                     agreements between the organization and its employees.

@@ -93,28 +93,36 @@
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
             <section id="workers_list">
                 <strong>Workers List:</strong>
+                <br />
+                <br />
                 <p>
                     The Workers List module is a user-friendly interface that displays a comprehensive list of all the
                     workers or employees in the organization. It serves as a navigational tool to access individual
                     worker profiles and their associated documents efficiently. Here are some key aspects of this
                     module:
                     <br />
+                    <br />
                     <strong>List View:</strong> The module typically presents a tabular or grid-based view of all
                     workers, showing essential details such as names, job titles, departments, and designations.
+                    <br />
                     <br />
                     <strong>Search and Filters:</strong> The Workers List module allows users to search for specific
                     workers based on various criteria, such as name, department, designation, or any custom fields
                     defined for workers' profiles.
                     <br />
+                    <br />
                     <strong>Quick Access:</strong> Users can click on a worker's name or profile entry in the list to
                     access their detailed profile and view the documents associated with them.
+                    <br />
                     <br />
                     <strong>Sorting:</strong> The list may support sorting options, allowing users to arrange workers in
                     alphabetical order, by hire date, or other relevant attributes.
                     <br />
+                    <br />
                     <strong>Integration with Workers Module:</strong> The Workers List module is closely integrated with
                     the Workers module. Clicking on a worker's name in the list leads to their detailed profile within
                     the Workers module.
+                    <br />
                     <br />
                     By combining the Workers and Workers List modules, the document management app provides an efficient
                     and organized way to manage worker-related documents and information. It streamlines the process of
