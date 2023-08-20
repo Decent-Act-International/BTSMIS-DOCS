@@ -43,3 +43,7 @@ function overview() {
   sessionStorage.removeItem("key");
   window.location.href = "index.html";
 }
+// for image open in new tab
+function openImageInNewTab(img) {
+  window.open(img, '_blank');
+}
