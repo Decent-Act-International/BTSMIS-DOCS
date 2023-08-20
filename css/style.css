@@ -262,3 +262,19 @@ a {
   }
   
 }
+
+/* welcome content for mobile device accessibility */
+@media screen and (max-width: 768px) {
+  #welcome-content {
+    /* content: "BTSMIS DOCS."; */
+    /* user friendly font size */
+    font-size: .5rem;
+    /* padding user friendly */
+    /* padding: 0.3rem;  */
+    
+    text-align: center;
+    /* content center */
+    margin: auto;
+  }
+  
+}
