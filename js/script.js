@@ -45,5 +45,5 @@ function overview() {
 }
 // for image open in new tab
 function openImageInNewTab(img) {
-  window.open(img, '_blank');
+  window.open("https://decent-act-international.github.io/BTSMIS-DOCS"+img, '_blank');
 }
