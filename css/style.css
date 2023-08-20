@@ -17,7 +17,7 @@
   background: #555;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap"); */
 
 :root {
   --header-height: 3rem;
@@ -252,7 +252,7 @@ a {
   #brand-content {
     /* content: "BTSMIS DOCS."; */
     /* user friendly font size */
-    font-size: 1rem;
+    font-size: 1.5rem;
     /* padding user friendly */
     /* padding: 0.3rem;  */
     
