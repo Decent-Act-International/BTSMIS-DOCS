@@ -248,11 +248,11 @@ a {
 }
 
 /* for brand responsive any device also content center also */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
   #brand-content {
     /* content: "BTSMIS DOCS."; */
     /* user friendly font size */
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     /* padding user friendly */
     /* padding: 0.3rem;  */
     
