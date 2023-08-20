@@ -235,6 +235,18 @@ a {
   
 }
 
+/* media screen min width */ 
+@media screen and (min-width: 768px) {
+  .table_of_content {
+    /* user friendly font size */
+    font-size: 1.2rem;
+    /* padding user friendly */
+    padding: 0.3rem; 
+
+  }
+  
+}
+
 /* for brand responsive any device also content center also */
 @media screen and (max-width: 700px) {
   #brand-content {
