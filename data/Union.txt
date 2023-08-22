@@ -13,8 +13,8 @@
         <div class="col-md-12 shadow p-5 mb-3 bg-body rounded">
             <h1><strong>Table of Contents:</strong></h1>
             <ul>
-                <li class = "table_of_content"><a href="#add_union">Add Union</a></li>
-                <li class = "table_of_content"><a href="#union_list">Union List</a></li>
+                <li class="table_of_content"><a href="#add_union">Add Union</a></li>
+                <li class="table_of_content"><a href="#union_list">Union List</a></li>
             </ul>
         </div>
         <div class="col-md-12 shadow p-4 mb-3 bg-body rounded">
@@ -73,7 +73,8 @@
                 </div>
             </section>
         </div>
-        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded" onclick="openImageInNewTab('/img/diagram-export-8_12_2023, 4_40_31 PM.webp')">
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded"
+            onclick="openImageInNewTab('/img/diagram-export-8_12_2023, 4_40_31 PM.webp')">
             <img id="union_1" src="./img/diagram-export-8_12_2023, 4_40_31 PM.webp" class="img-fluid" alt="union_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded" onclick="openImageInNewTab('/img/union_2.webp')">
@@ -150,8 +151,8 @@
                 </div>
             </section>
         </div>
-        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded">
-            <a href="/img/diagram-export-8_12_2023, 4_47_55 PM.webp" target="_blank"><img id="union_list_1" src="./img/diagram-export-8_12_2023, 4_47_55 PM.webp" class="img-fluid" alt="union_list_1"><a />
+        <div class="col-md-12 shadow p-3 mb-3 bg-body rounded" onclick="openImageInNewTab('/img/diagram-export-8_12_2023, 4_47_55 PM.webp')">
+            <img id="union_list_2" src="./img/diagram-export-8_12_2023, 4_47_55 PM.webp" class="img-fluid" alt="union_list_1">
         </div>
         <div class="col-md-12 shadow p-3 mb-3 bg-body rounded" onclick="openImageInNewTab('/img/union_list_2.webp')">
             <img id="union_list_2" src="./img/union_list_2.webp" class="img-fluid" alt="union_list_2">
@@ -160,11 +161,11 @@
             <img id="union_list_3" src="./img/union_list_3.webp" class="img-fluid" alt="union_list_3">
         </div>
     </div>
-    </div>
     <div class="row">
         <div class="col-md-12 shadow p-3 mb-1 bg-body rounded">
             <small class="d-flex justify-content-center">
                 &copy; BTSMIS, 2023. All rights reserved.
             </small>
+        </div>
     </div>
 </div>
